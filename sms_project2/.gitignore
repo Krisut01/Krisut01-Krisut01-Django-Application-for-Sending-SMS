@@ -1,0 +1,5 @@
+# Ignore the settings file if you store sensitive information here
+sms_project2/settings.py
+
+# Ignore the .env file where sensitive environment variables are stored
+.env
